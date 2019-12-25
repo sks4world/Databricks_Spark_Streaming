@@ -16,10 +16,11 @@ The full video of the tutorial can be accessed at this link
 https://databricks.com/session/writing-continuous-applications-with-structured-streaming-pyspark-api
 
 The do-along Notebook and the presentation can be accessed below from this github:
-- PySparkSAIS.dbc (this file contains the following packaged items to import into Databricks)
+- PySparkSAIS.dbc (after you import this .dbc file to Databricks, the following packaged items can be seen)
   - 1-continuous_application_sensor.ipynb
   - 2-continuous_application_ml_serving.ipynb
   - 3_continuous_event_time_agg_watermarking.ipynb
+  - setup folder with datafiles
 - PySparkStructuredStreaming_FINAL.pdf presentation
 - Youtube link of the tutorial (it is same as in the databricks link above https://www.youtube.com/watch?v=c4MAgdriJzY&feature=youtu.be)
 
